@@ -1,5 +1,5 @@
 # ✈️ Flight Ticket Price Prediction
-**COM7022 — Machine Learning | Arden University Berlin | MSc Data Science**
+**COM7022 — Machine Learning **
 
 A supervised regression project predicting Indian domestic flight ticket prices using 300,153 EaseMyTrip booking records. Covers the full ML pipeline from data cleaning to model evaluation.
 
